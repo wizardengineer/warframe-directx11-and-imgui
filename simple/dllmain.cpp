@@ -1,4 +1,4 @@
-// dllmain.cpp : Defines the entry point for the DLL application.
+// dllmain.cpp : Defines the entry point for the DLL application...
 #include <thread>
 #include "directx11-hook.hpp"
 
